@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSConvertisseur", "WSConvertisseur\WSConvertisseur.csproj", "{995CEA2B-474E-4CF8-9D5A-76E85854C20C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSConvertisseurTests1", "WSConvertisseurTests1\WSConvertisseurTests1.csproj", "{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{995CEA2B-474E-4CF8-9D5A-76E85854C20C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{995CEA2B-474E-4CF8-9D5A-76E85854C20C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{995CEA2B-474E-4CF8-9D5A-76E85854C20C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{995CEA2B-474E-4CF8-9D5A-76E85854C20C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A52641B-D2BF-4DAC-A83C-698FF1A12E35}
+	EndGlobalSection
+EndGlobal
