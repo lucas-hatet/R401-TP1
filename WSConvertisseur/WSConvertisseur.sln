@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSConvertisseur", "WSConvertisseur\WSConvertisseur.csproj", "{995CEA2B-474E-4CF8-9D5A-76E85854C20C}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSConvertisseurTests", "WSConvertisseurTests1\WSConvertisseurTests.csproj", "{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WSConvertisseurTests", "WSConvertisseurTests\WSConvertisseurTests.csproj", "{8C209D70-EF92-4C3C-AF4B-059DA23A92A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
